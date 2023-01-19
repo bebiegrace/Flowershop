@@ -45,3 +45,8 @@ Route::delete('products/{id}', [ProductController::class, 'destroyproduct']);
     Route::delete('orders/{id}', [OrderController::class, 'destroyorder']);
     });
 
+
+
+
+
+    
